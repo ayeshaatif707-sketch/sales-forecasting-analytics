@@ -34,5 +34,3 @@ The goal is to simulate real-world business sales data and build predictive mode
 - Jupyter Notebook
 
 ---
-
-## 📂 Project Structure
